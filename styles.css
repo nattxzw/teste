@@ -2,28 +2,28 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 20px;
-    background-color: #797885;
+    background-color: #000000;
     color: #333;
 }
 
 h1 {
-    color: #ffffff;
+    color: #54e1eb;
     text-align: center;
 }
 
 h2 {
-    color: #ffffff;
+    color: #73cec9;
     text-align: center;
 }
 
 h3 {
-    color: #ffffff;
+    color: #68dde6;
     
 }
 
 p {
     text-align: center;
-    color: #ffffff;
+    color: #586bd6;
 }
 
 ul {
@@ -32,7 +32,7 @@ ul {
 }
 
 li {
-    background: #ecf0f1;
+    background: #4c7985;
     margin: 5px 0;
     padding: 10px;
     border-radius: 5px;
